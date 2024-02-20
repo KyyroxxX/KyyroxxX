@@ -1,3 +1,4 @@
+https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg?raw=true
 Hola, me llamo Alejandro. 👋
 
 - 🔭 Busco todo tipo de trabajo que tenga que ver con el ambiente informático, sobretodo en el entorno de la programación actualmente.
