@@ -1,4 +1,22 @@
-https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg
+![This is me]([https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg))
+```javascript
+const KeepCoding = {
+code: [
+"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
+"BIG DATA & MACHINE LEARNING",
+"DEVOPS",
+"CIBERSEGURIDAD",
+"BLOCKCHAIN"],
+technologies:[
+"Cursos Online",
+"Webbinars",
+"BootCamps",
+]
+},
+homePage: "https://justcodeit.io/"
+};
+``````
+
 Hola, me llamo Alejandro. 👋
 
 - 🔭 Busco todo tipo de trabajo que tenga que ver con el ambiente informático, sobretodo en el entorno de la programación actualmente.
