@@ -1,4 +1,4 @@
-![This is me]([https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg))
+![This is me](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg)
 ```javascript
 const Kyrox = {
 code: [
