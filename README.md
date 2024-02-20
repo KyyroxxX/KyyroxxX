@@ -12,7 +12,6 @@ Hola, me llamo Alejandro. 👋
 "SQL AND SQLITE",
 "DEVOPS",
 "CIBERSEGURIDAD IN PROGRESS",
-]
 },
 ``````
 
