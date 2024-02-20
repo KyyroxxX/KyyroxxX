@@ -14,8 +14,6 @@ Hola, me llamo Alejandro. 👋
 "CIBERSEGURIDAD IN PROGRESS",
 ]
 },
-homePage: "https://justcodeit.io/"
-};
 ``````
 
 
