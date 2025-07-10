@@ -1,18 +1,30 @@
 ![This is me](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg)
 ```javascript
 const Kyrox = {
-code: [
-Hola, me llamo Alejandro. 👋
+  code: [
+    "Hi, I'm Alejandro — also known as Kyrox. 👋",
+    
+    "- 🔐 I’m currently focused on becoming a highly skilled cybersecurity professional, aiming for roles in Red Teaming, Blue Teaming, and ultimately Purple Team leadership.",
+    
+    "- 🎯 My main goal is to work remotely for top-tier international companies, contributing to offensive and defensive security operations.",
+    
+    "- 📚 I’m actively building deep knowledge in topics like penetration testing, network security, and incident response. I’m also working through certifications such as eJPT, CompTIA Security+, OSCP, and CISSP.",
+    
+    "- 🛠️ I have hands-on experience in network enumeration, pivoting, privilege escalation, and web exploitation, with simulated labs like TryHackMe, Hack The Box, and Grey Hack.",
+    
+    "- 💬 Ask me about my writeups, GitHub scripts, and blog posts — I love to document everything I learn, share methodologies, and grow with the community."
+  ],
 
-- 🔭 Busco todo tipo de trabajo que tenga que ver con el ambiente informático, sobretodo en el entorno de la programación actualmente.
-- 🌱 Actualmente estoy formandome en diversos lenguajes de programación como: ʜᴛᴍʟ-ᴘʜᴘ-ᴄꜱꜱ-ᴊꜱ-ʟᴜᴀ-ᴘʏ..., y en términos de base de datos en SQL, HeidiSQL y Sqlite y intentando aprender CiberSeguridad para un futuro.
-- 💬 Preguntame sobre mis proyectos, en cada uno de ellos tienes capturas/videos para ver como funcionan, les tengo mucho cariño aunque no sean la gran cosa por el esfuerzo que me han costado y me siento orgulloso ya que no todos en mi situación han decidido formarse tanto.
+  skills: [
+    "WEB DEVELOPMENT (HTML, CSS, JS)",
+    "SQL, HEIDISQL & SQLITE",
+    "LINUX FOR PENTESTING",
+    "ETHICAL HACKING",
+    "NETWORKING & FIREWALLS",
+    "CERTIFICATIONS IN PROGRESS: eJPT, SEC+, OSCP, CISSP"
+  ]
+};
 
-"DESARROLLO WEB",
-"SQL, HeidiSQL AND SQLITE",
-"DEVOPS",
-"CIBERSEGURIDAD IN PROGRESS",
-},
 ``````
 
 
