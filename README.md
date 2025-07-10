@@ -1,30 +1,50 @@
-![This is me](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg)
-```javascript
-const Kyrox = {
-  code: [
-    "Hi, I'm Alejandro — also known as Kyrox. 👋",
-    
-    "- 🔐 I’m currently focused on becoming a highly skilled cybersecurity professional, aiming for roles in Red Teaming, Blue Teaming, and ultimately Purple Team leadership.",
-    
-    "- 🎯 My main goal is to work remotely for top-tier international companies, contributing to offensive and defensive security operations.",
-    
-    "- 📚 I’m actively building deep knowledge in topics like penetration testing, network security, and incident response. I’m also working through certifications such as eJPT, CompTIA Security+, OSCP, and CISSP.",
-    
-    "- 🛠️ I have hands-on experience in network enumeration, pivoting, privilege escalation, and web exploitation, with simulated labs like TryHackMe, Hack The Box, and Grey Hack.",
-    
-    "- 💬 Ask me about my writeups, GitHub scripts, and blog posts — I love to document everything I learn, share methodologies, and grow with the community."
-  ],
+![Cybersecurity](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg)
 
-  skills: [
-    "WEB DEVELOPMENT (HTML, CSS, JS)",
-    "SQL, HEIDISQL & SQLITE",
-    "LINUX FOR PENTESTING",
-    "ETHICAL HACKING",
-    "NETWORKING & FIREWALLS",
-    "CERTIFICATIONS IN PROGRESS: eJPT, SEC+, OSCP, CISSP"
-  ]
-};
+```markdown
+# Cybersecurity Journey - Alejandro (Kyrox)
 
-``````
+---
 
+## About Me
 
+I am passionate about cybersecurity with a focus on offensive and defensive techniques.  
+Currently advancing my skills in penetration testing, threat hunting, and incident response.  
+
+---
+
+## What I’m Learning & Working On
+
+- Network security fundamentals: TCP/IP, firewalls, VPNs, IDS/IPS  
+- Penetration testing methodologies and tools: Nmap, Metasploit, Burp Suite, Wireshark  
+- Privilege escalation and post-exploitation techniques  
+- Web security: OWASP Top 10, SQL Injection, XSS, CSRF  
+- Incident detection and response strategies  
+- Preparing for certifications: eJPT, OSCP, Security+, CISSP  
+
+---
+
+## My Cybersecurity Toolbox
+
+- **Languages:** Bash, Python, PowerShell  
+- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, Hydra, John the Ripper  
+- **Platforms:** GreyHack, TryHackMe, Hack The Box  
+
+---
+
+## Projects & Writeups
+
+- Detailed pentesting writeups and tutorials  
+- Custom scripts for automation and exploitation  
+- Vulnerability research and analysis  
+
+---
+
+## Get in Touch
+
+- Email: [alex.deluque@example.com](mailto:alex.deluque@example.com)  
+- LinkedIn: [linkedin.com/in/alexdeluque](https://linkedin.com/in/alexdeluque)  
+- GitHub: [github.com/kyrox](https://github.com/kyrox)  
+
+---
+
+*“Stay curious, stay secure.”*
