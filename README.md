@@ -1,5 +1,3 @@
-![Cybersecurity](https://github.com/KyyroxxX/KyyroxxX/blob/main/logo.jpeg)
-
 ```markdown
 # Cybersecurity Journey - Alejandro (Kyrox)
 
