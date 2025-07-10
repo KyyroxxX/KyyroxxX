@@ -39,9 +39,10 @@ Currently advancing my skills in penetration testing, threat hunting, and incide
 
 ## Get in Touch
 
-- Email: [alex.deluque@example.com](mailto:alex.deluque@example.com)  
-- LinkedIn: [linkedin.com/in/alexdeluque](https://linkedin.com/in/alexdeluque)  
-- GitHub: [github.com/kyrox](https://github.com/kyrox)  
+--Email: kyrox3333@gmail.com</li>
+--LinkedIn: https://www.linkedin.com/in/alejandro-alex-de-luque-113530374/
+--GitHub: https://github.com/KyyroxxX
+  </ul>
 
 ---
 
