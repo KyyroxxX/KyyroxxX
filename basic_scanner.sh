@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =============================
-# NMAP Advanced Vulnerability Scan
+# NMAP Escaaner Basico de Vulnerabilidades con scripts NSE
 # =============================
 
 # Para poder hacer ctrl+C
