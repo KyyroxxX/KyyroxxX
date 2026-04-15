@@ -42,6 +42,7 @@ Currently advancing my skills in penetration testing, threat hunting, and incide
 --Email: kyrox3333@gmail.com
 --LinkedIn: https://www.linkedin.com/in/alejandro-alex-de-luque-113530374/
 --GitHub: https://github.com/KyyroxxX
+--Webs: https://i4mk1r0x.breakerxfixer.online/  &&  https://breakerxfixer.online/
   
 
 ---
