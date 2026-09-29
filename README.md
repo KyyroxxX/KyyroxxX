@@ -1,50 +1,27 @@
-```markdown
-# Cybersecurity Journey - Alejandro (Kyrox)
+# Alejandro De Luque | Kyrox
 
----
+**ASIR student · IT Support · Systems & Networks · Cybersecurity**
 
-## About Me
+Currently studying Administración de Sistemas Informáticos en Red (ASIR) at Escola Palcam in Barcelona and looking for an **FCT internship with immediate availability**.
 
-I am passionate about cybersecurity with a focus on offensive and defensive techniques.  
-Currently advancing my skills in penetration testing, threat hunting, and incident response.  
+## Focus areas
+- Linux and Windows system administration
+- Networking: TCP/IP, DNS, DHCP, routing and firewalls
+- Cybersecurity labs: web security, reconnaissance and vulnerability assessment
+- Scripting and automation with Bash, Python and PowerShell
+- Learning cloud security and AWS fundamentals
 
----
+## Certification
+- **eJPTv2** — INE Security
 
-## What I’m Learning & Working On
+## Selected work
+- [Cybersecurity Pentesting Notes](https://github.com/KyyroxxX/CiberSecurity-Pentesting)
+- [Personal portfolio](https://i4mk1r0x.breakerxfixer.online)
+- [Breaker x Fixer](https://breakerxfixer.online/)
 
-- Network security fundamentals: TCP/IP, firewalls, VPNs, IDS/IPS  
-- Penetration testing methodologies and tools: Nmap, Metasploit, Burp Suite, Wireshark  
-- Privilege escalation and post-exploitation techniques  
-- Web security: OWASP Top 10, SQL Injection, XSS, CSRF  
-- Incident detection and response strategies  
-- Preparing for certifications: eJPT, OSCP, Security+, CISSP  
+## Contact
+- Email: kyrox3333@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/alejandro-de-luque-113530374/)
+- [Portfolio](https://i4mk1r0x.breakerxfixer.online)
 
----
-
-## My Cybersecurity Toolbox
-
-- **Languages:** Bash, Python, PowerShell  
-- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, Hydra, John the Ripper  
-- **Platforms:** GreyHack, TryHackMe, Hack The Box  
-
----
-
-## Projects & Writeups
-
-- Detailed pentesting writeups and tutorials  
-- Custom scripts for automation and exploitation  
-- Vulnerability research and analysis  
-
----
-
-## Get in Touch
-
---Email: kyrox3333@gmail.com
---LinkedIn: https://www.linkedin.com/in/alejandro-alex-de-luque-113530374/
---GitHub: https://github.com/KyyroxxX
---Webs: https://i4mk1r0x.breakerxfixer.online/  &&  https://breakerxfixer.online/
-  
-
----
-
-*“Stay curious, stay secure.”*
+> Hands-on learning through labs, documentation and reproducible projects.
