@@ -72,6 +72,32 @@ Personal web project.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ NetWatch
+**Concurrent Network Monitoring & Historical Analysis**
+
+Python CLI for concurrent host availability checks, SQLite history, latency summaries and outage/recovery detection.
+
+`Python` `Networking` `SQLite` `Concurrency`
+
+[Open repository →](https://github.com/KyyroxxX/NetWatch)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ ADForge
+**Active Directory Security & Administration Lab**
+
+A Windows AD lab project focused on identity administration, PowerShell automation, GPOs and security auditing. Initial development; runtime lab validation remains pending.
+
+`Active Directory` `PowerShell` `Windows Server` `Security`
+
+[Open repository →](https://github.com/KyyroxxX/ADForge)
+
+</td>
+</tr>
 </table>
 
 ## ◈ Technical focus
