@@ -1,5 +1,7 @@
 # 🔴 KYROX — SYSTEM PROFILE
 
+🌐 **Language / Idioma:** [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md)
+
 <div align="center">
 
 # ALEJANDRO DE LUQUE
