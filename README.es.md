@@ -100,6 +100,7 @@ Proyecto web personal.
 - **Email:** [kyrox3333@gmail.com](mailto:kyrox3333@gmail.com)
 - **LinkedIn:** [linkedin.com/in/alejandro-de-luque-113530374](https://www.linkedin.com/in/alejandro-de-luque-113530374/)
 - **Portfolio:** [i4mk1r0x.breakerxfixer.online](https://i4mk1r0x.breakerxfixer.online)
+- **Descargar CV (PDF)**: [CV_Alejandro_De_Luque.pdf](https://raw.githubusercontent.com/KyyroxxX/i4mk1r0x/main/assets/CV_Alejandro_De_Luque.pdf)
 
 ---
 
